@@ -510,87 +510,87 @@ msgstr "<b>문자:</b> %s"
 
 #: ../pitivi/ui/common.py:185
 msgid "12 fps"
-msgstr ""
+msgstr "12 fps"
 
 #: ../pitivi/ui/common.py:186
 msgid "15 fps"
-msgstr ""
+msgstr "15 fps"
 
 #: ../pitivi/ui/common.py:187
 msgid "20 fps"
-msgstr ""
+msgstr "20 fps"
 
 #: ../pitivi/ui/common.py:188
 msgid "23,976 fps"
-msgstr ""
+msgstr "23,976 fps"
 
 #: ../pitivi/ui/common.py:189
 msgid "24 fps"
-msgstr ""
+msgstr "24 fps"
 
 #: ../pitivi/ui/common.py:190
 msgid "25 fps"
-msgstr ""
+msgstr "25 fps"
 
 #: ../pitivi/ui/common.py:191
 msgid "29,97 fps"
-msgstr ""
+msgstr "29,97 fps"
 
 #: ../pitivi/ui/common.py:192
 msgid "30 fps"
-msgstr ""
+msgstr "30 fps"
 
 #: ../pitivi/ui/common.py:193
 msgid "59,94 fps"
-msgstr ""
+msgstr "59.94 fps"
 
 #: ../pitivi/ui/common.py:194
 msgid "60 fps"
-msgstr ""
+msgstr "60 fps"
 
 #: ../pitivi/ui/common.py:195
 msgid "120 fps"
-msgstr ""
+msgstr "120 fps"
 
 #: ../pitivi/ui/common.py:199
 msgid "8 kHz"
-msgstr ""
+msgstr "8 kHz"
 
 #: ../pitivi/ui/common.py:200
 msgid "11 kHz"
-msgstr ""
+msgstr "11 kHz"
 
 #: ../pitivi/ui/common.py:201
 msgid "22 kHz"
-msgstr ""
+msgstr "22 kHz"
 
 #: ../pitivi/ui/common.py:202
 msgid "44.1 kHz"
-msgstr ""
+msgstr "44.1 kHz"
 
 #: ../pitivi/ui/common.py:203
 msgid "48 kHz"
-msgstr ""
+msgstr "48 kHz"
 
 #: ../pitivi/ui/common.py:204
 msgid "96 kHz"
-msgstr ""
+msgstr 96 kHz"
 
 #: ../pitivi/ui/common.py:208
 msgid "8 bit"
-msgstr ""
+msgstr "8"
 
 #: ../pitivi/ui/common.py:209
 msgid "16 bit"
-msgstr ""
+msgstr "16"
 
 #: ../pitivi/ui/common.py:210
 msgid "24 bit"
-msgstr ""
+msgstr "24"
 
 #: ../pitivi/ui/common.py:211
 msgid "32 bit"
-msgstr ""
+msgstr "32"
 
 #: ../pitivi/ui/common.py:215
 #, fuzzy
@@ -1838,7 +1838,7 @@ msgstr "동영상 맨 마지막에 넣기(_E)"
 
 #: ../pitivi/ui/viewer.py:513
 msgid "Dock Viewer"
-msgstr ""
+msgstr "독 뷰어"
 
 #: ../pitivi/ui/viewer.py:644
 #, fuzzy
@@ -1901,7 +1901,7 @@ msgstr "%s  로컬 프로젝트를  아직 다룰 수 없습니다."
 #~ "가됩니다."
 
 #~ msgid "Run pitivi with no gui"
-#~ msgstr "pitivi를 그래픽 화면 없이 실행합니다."
+#~ msgstr "Pitivi를 그래픽 화면 없이 실행합니다."
 
 #~ msgid "<b>Author:</b>"
 #~ msgstr "<b>만든 이:</b>"
@@ -1910,7 +1910,7 @@ msgstr "%s  로컬 프로젝트를  아직 다룰 수 없습니다."
 #~ msgstr "<b>설명:</b>"
 
 #~ msgid "<b>Plugin Name</b>"
-#~ msgstr "<b>플러긴 이름</b>"
+#~ msgstr "<b>플러 이름</b>"
 
 #~ msgid "<b>Nothing yet</b>"
 #~ msgstr "<b>아무것도 아니에요.</b>"
@@ -2053,4 +2053,4 @@ msgstr "%s  로컬 프로젝트를  아직 다룰 수 없습니다."
 #~ msgstr "이름:"
 
 #~ msgid "The name of your project."
-#~ msgstr "프로젝트 이름."
+#~ msgstr "프로젝트 이름"
